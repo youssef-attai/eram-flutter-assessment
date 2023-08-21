@@ -6,10 +6,7 @@
 
 ## Welcome
 
-Welcome to the Flutter Assessment.
-We're excited to witness your skills in action.
-This challenge aims to evaluate your frontend prowess using Flutter.
-Let's delve into the details.
+Welcome to the Flutter Assessment. We're excited to witness your skills in action. This challenge aims to evaluate your frontend prowess using Flutter. Let's delve into the details.
 
 ## Task
 
@@ -31,9 +28,9 @@ Your objective is to develop a simple Todo app that seamlessly interacts with a 
 
 2. Thoroughly review the `api.md` file to gain a comprehensive understanding of the API details and available endpoints.
 
-3. Proceed to build your Flutter application within the `todo_app` directory.
+3. Proceed to build your Flutter application.
 
-4. Once satisfied, commit your solution to your personal GitHub repository and subsequently share the repository link with us.
+4. Once satisfied, commit your solution to your personal GitHub repository and make a pull request.
 
 ## Assessment Criteria
 
@@ -49,12 +46,8 @@ Your submission will be assessed based on the following criteria:
 
 ## Timeline
 
-You have one week to complete the challenge. However, if you're able to finalize it earlier, that's perfectly acceptable.
+You have two days to complete the challenge. However, if you're able to finalize it earlier, that's perfectly acceptable.
 
 ## Queries?
 
-Should you have any inquiries or require clarification, please don't hesitate to contact us at challenges@media-prod.com.
-
----
-
-Hope this version aligns better with your requirements, Youssef. Feel free to use it as-is!
+Should you have any inquiries or require clarification, please don't hesitate to contact us at youssefgalalnazem@gmail.com.
