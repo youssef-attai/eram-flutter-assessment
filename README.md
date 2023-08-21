@@ -36,13 +36,13 @@ Your objective is to develop a simple Todo app that seamlessly interacts with a 
 
 Your submission will be assessed based on the following criteria:
 
-- Git Proficiency: We'll examine the organization and structure of your commit history and branching strategy.
+- **Git Proficiency**: We'll examine the organization and structure of your commit history and branching strategy.
 
-- Flutter Proficiency: Your ability to implement a well-structured Flutter application, adhering to established best practices.
+- **Flutter Proficiency**: Your ability to implement a well-structured Flutter application, adhering to established best practices.
 
-- State Management: Your adeptness in managing diverse application states while ensuring a smooth user experience.
+- **State Management**: Your adeptness in managing diverse application states while ensuring a smooth user experience.
 
-- UI Aesthetics: Your capacity to create an interface that combines functionality with visual appeal.
+- **UI Aesthetics**: Your capacity to create an interface that combines functionality with visual appeal.
 
 ## Timeline
 
