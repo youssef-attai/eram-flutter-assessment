@@ -5,7 +5,7 @@ This document outlines the REST API endpoints and their usage to facilitate the 
 
 ## Base URL
 
-The base URL for all API endpoints is: `https://api.example.com`
+The base URL for all API endpoints is: `https://eram-flutter-assessment-backend.onrender.com`
 
 ## Endpoints
 
