@@ -1,6 +1,8 @@
 # Eram Media Group Flutter Developer Assessment
 
-<img src="./logo.png" align="center"/>
+<div align="center">
+    <img src="./logo.png" />
+</div>
 
 ## Welcome
 
