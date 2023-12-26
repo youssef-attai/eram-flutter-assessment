@@ -6,7 +6,7 @@
 
 ## Welcome
 
-Welcome to the Flutter Assessment. We're excited to witness your skills in action. This challenge aims to evaluate your frontend prowess using Flutter. Let's delve into the details.
+Welcome to the Flutter Assessment. We're excited to witness your skills in action. This challenge aims to evaluate your frontend prowess using Flutter. 
 
 ## Task
 
